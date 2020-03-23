@@ -1,6 +1,6 @@
 # nn_ops_eigen3
 
-This repository is to use to practice implementing some basic neural network operations in C++ with Eigen3.
+This repository is used to practice implementing some basic neural network operations in C++ with Eigen3.
 
   - 2D convolution
   - Add bias
